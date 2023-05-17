@@ -1,0 +1,25 @@
+
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+
+label{
+    display: block;
+    color: black;
+    margin-top: 20px;
+    
+}
+li{
+  list-style: none;
+}
+ul{
+  padding-left: 0;
+
+}
+.errors{
+  color: brown;
+  font-size: 20px;
+  
+}
+ 
